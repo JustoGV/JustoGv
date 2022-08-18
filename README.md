@@ -14,6 +14,12 @@
 
 
 📫 How to reach me: justitoogv@gamil.com
+
+Connect with me:
+
+
+Languages and Tools:
+css3 express git heroku html5 javascript jest mongodb nodejs postgresql postman react redux typescript
 <!--
 **JustoGV/JustoGv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
