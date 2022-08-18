@@ -3,6 +3,10 @@
 
 👯 I’m looking to collaborate on new Proyects.
 
+💡 Goals for 2022: 
+-Get a job
+-Learn more about programming
+
 
 📫 How to reach me: justitoogv@gamil.com
 <!--
