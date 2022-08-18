@@ -1,5 +1,9 @@
 ### Hi there 👋 this is my github. I´m Justo, a Full Stack Web Developer.
-👯 I’m looking to collaborate on new Proyects
+
+
+👯 I’m looking to collaborate on new Proyects.
+
+
 📫 How to reach me: justitoogv@gamil.com
 <!--
 **JustoGV/JustoGv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
