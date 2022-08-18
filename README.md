@@ -3,10 +3,11 @@
 
 👯 I’m looking to collaborate on new Proyects.
 
+💬 Ask me about React and Redux
+
+💻 My last proyect was https://foodify-ten.vercel.app/
+
 💡 Goals for 2022: 
-
-
--Get a job
 
 
 -Learn more about programming
