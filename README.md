@@ -18,8 +18,18 @@
 Connect with me:
 
 
-Languages and Tools:
-css3 express git heroku html5 javascript jest mongodb nodejs postgresql postman react redux typescript
+Programming Lenguage: Javascript
+
+Web Programming: HTMLS, CSS, Bootstrap, NodeJS
+
+Database: PostresSQL
+
+Frameworks/Library: React, Redux, React Native, Express
+
+Project Management: Trello, Slack
+
+Version Control: Git & GitHub
+
 <!--
 **JustoGV/JustoGv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
