@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justo</h1>
-<h3 align="center">Welcome to my profile! I am a passionate software developer with extensive experience in creating web and mobile applications. My focus is on building innovative and efficient solutions that enhance user experience and optimize business processes.</h3>
+<h3 align="center">Welcome to my profile! I am a passionate software developer with extensive experience in creating web applications. My focus is on building innovative and efficient solutions that enhance user experience and optimize business processes.</h3>
 
 - 🎓 Education: Bachelor's degree in Software Engineering from **HENRY and IES Santa Fe.**
 
