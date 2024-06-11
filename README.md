@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Justo</h1>
-<h3 align="center">I´m a Full Stack Web Developer</h3>
+<h3 align="center">I´m a Software Developer</h3>
 
-- 💻 My last proyect was **https://foodify-ten.vercel.app/**
+- 🌱 I’m currently learning **WebServices**
 
-- 🌱 I’m currently learning **Frameworks**
-
-- 💬 Ask me about **React and CSS**
+- 💬 Ask me about **Linux**
 
 - 📫 How to reach me **justitoogv@gmail.com**
 
